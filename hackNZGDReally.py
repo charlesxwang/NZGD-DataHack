@@ -39,7 +39,7 @@ while browser.current_url == login_url:
     if waittime == 10:
         print("too long to login, stoped.")
         exit()
-print('login maybe successed...\n')
+print('login maybe succeeded...\n')
 
 
 # get cookies

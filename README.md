@@ -1,7 +1,7 @@
 # NZGD-DataHack
 This script is used to bulk-download data from NZGD.
 
-Currently NZGD does not open to public you you may need a username and a password.
+Currently NZGD does not open to public so you may need a username and a password.
 
 Use:
 

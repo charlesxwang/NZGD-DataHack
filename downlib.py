@@ -41,7 +41,7 @@ def download(urls):
         if waittime == 10:
             print("too long to login, stoped.")
             exit()
-    print('login maybe successed...\n')
+    print('login maybe succeed...\n')
 
 
     # get cookies
