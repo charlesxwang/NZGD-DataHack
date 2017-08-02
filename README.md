@@ -9,3 +9,4 @@ Just run hackNZGDReally.py, if login successed, you can manually zoom the map to
 
 Then you run downloader.py, all data will be downloaded by calling chrome parallelly.
 
+

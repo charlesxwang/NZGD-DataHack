@@ -1,3 +1,6 @@
+# Charles Wang
+# updated Aug 02, 2017
+
 import requests
 import numpy as np
 from bs4 import BeautifulSoup as bs

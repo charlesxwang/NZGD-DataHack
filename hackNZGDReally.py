@@ -1,3 +1,9 @@
+# This is the main script used two identify cpt url from NZGD.
+# Make sure you get authorization to download data from NZGD, you need username and password to login.
+# Charles Wang
+# updated Aug 02, 2017
+
+
 import requests
 import numpy as np
 from bs4 import BeautifulSoup as bs
